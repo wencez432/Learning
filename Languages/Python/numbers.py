@@ -20,7 +20,7 @@ print(round(4.50)) # 4
 print(round(4.51)) # 5
 print(round(4.5551, 2, )) # 4.56
 
-# using math funtions
+# using math functions
 
 print(floor(3.7)) # 3
 print(ceil(3.3)) # 4

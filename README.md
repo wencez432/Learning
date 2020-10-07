@@ -1,3 +1,3 @@
 # Learning
  
-A repository to show what i am learning
+ In this repository you are going to find what i am learning. Like programing laguages

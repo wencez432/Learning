@@ -5,6 +5,8 @@ var4 = 3.5 # float
 var6 = 4,7 # tuple
 var3 = False # bool
 
+# This is just for printing
+
 variables = [var1, var2, var3, var4, var5, var6]
 
 for v in variables:

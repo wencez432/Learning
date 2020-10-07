@@ -1,3 +1,5 @@
+from math import floor, ceil, sqrt
+
 print(7)
 print(4.8036)
 print(3 + 4.9) # 7.9
@@ -16,4 +18,10 @@ print(max(6, 29)) # 29
 print(min(3, -2)) # -2
 print(round(4.50)) # 4
 print(round(4.51)) # 5
-print(round(4.5551, 2)) # 4.56
+print(round(4.5551, 2, )) # 4.56
+
+# using math funtions
+
+print(floor(3.7)) # 3
+print(ceil(3.3)) # 4
+print(sqrt(4)) # 2
